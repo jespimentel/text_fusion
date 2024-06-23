@@ -1,5 +1,5 @@
 # TextFusion
-## Scripts de extração de texto de pdf e docx e de divisião de arquivo
+## Scripts de extração de texto de pdf e docx e de divisão de arquivo
 
 O programa 'extrator.py' percorre o diretório alvo e extrai o texto de arquivos pdf e docx que forem encontrados, reunindo-os num único documento txt ('output.txt').
 
